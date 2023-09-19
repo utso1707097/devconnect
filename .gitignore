@@ -38,3 +38,4 @@ local_settings.py
 # Ignore macOS system files
 .DS_Store
 .AppleDouble
+staticfiles/
